@@ -1,0 +1,10 @@
+Cluster 0: Lower Income, Low Spending, Mixed-Channel, Less Deal-Sensitive
+Customers: 1331
+Average Income: 39074.8
+Average Spending: 187.39
+
+Cluster 1: High Income, High Spending, Digital-Focused, Less Deal-Sensitive
+Customers: 885
+Average Income: 72058.03
+Average Spending: 1238.26
+

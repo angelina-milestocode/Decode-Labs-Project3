@@ -1,0 +1,3 @@
+Cluster,Persona,AverageIncome,AverageSpending,AverageWebPurchases,AverageStorePurchases,AverageDealPurchases,CustomerCount
+0,"Lower Income, Low Spending, Mixed-Channel, Less Deal-Sensitive",39074.8,187.39,2.93,4.01,2.53,1331
+1,"High Income, High Spending, Digital-Focused, Less Deal-Sensitive",72058.03,1238.26,5.83,8.49,2.01,885
